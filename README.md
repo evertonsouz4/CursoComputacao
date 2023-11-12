@@ -32,5 +32,3 @@ Numeração dos laboratórios:
 27. Funções Inline e Ponteiros para Funções
 28. Armazenamento e Referências
 29. Templates e Sobrecarga de Funções
-
-test
