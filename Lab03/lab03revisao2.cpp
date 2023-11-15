@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     int horas;
     int minutos;
 
@@ -13,6 +12,6 @@ int main()
     cout << "Sao " << horas << ":" << minutos << "\n\n";
     cout << horas << " horas\n";
     cout << minutos << " minutos\n";
-    
+
     return 0;
 }
