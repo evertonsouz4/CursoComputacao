@@ -1,5 +1,5 @@
-#include <iostream>
 #include <stdlib.h>
+#include <iostream>
 using namespace std;
 void Inicializar();
 void ligar();
@@ -19,11 +19,7 @@ void Inicializar() {
     ativar();
     cout << "Inicializacao concluida.\n";
     int num1 = rand();
-    if (num1 > 16384) {
-        cout << "\n\nSistema em funcionamento.";
-    }
-
-
+    if (num1 > 16384) { cout << "\n\nSistema em funcionamento."; }
 }
 void ligar() {
     cout << "- Ligando dispositivos \n";

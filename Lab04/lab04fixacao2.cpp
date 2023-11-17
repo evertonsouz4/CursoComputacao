@@ -13,6 +13,7 @@ int main() {
     grande(), cout << "\n";
     media(), cout << "\n";
     pequena(), cout << "\n";
+
     return 0;
 }
 

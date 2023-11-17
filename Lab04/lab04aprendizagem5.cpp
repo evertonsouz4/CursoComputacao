@@ -8,8 +8,8 @@ int main() {
     cout << "Digite um numero inteiro: ";
     cin >> num1;
     cout << "O valor absoluto e: " << Absoluto(num1) << ".";
-    return 0;
 
+    return 0;
 }
 
 int Absoluto(int n){
