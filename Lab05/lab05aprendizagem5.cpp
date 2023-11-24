@@ -10,7 +10,6 @@ int main() {
     cin >> x;
     cout << "y: ";
     cin >> y;
-    result = atan2(y, x);
-    cout << "\nO angulo do vetor e: " << result * 180 / PI << " graus.";
+    cout << "\nO angulo do vetor e: " << result << " graus.";
     return 0;
 }
