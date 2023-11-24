@@ -10,6 +10,6 @@ int main() {
     cin >> x;
     cout << "y: ";
     cin >> y;
-    cout << "\nO angulo do vetor e: " << result << " graus.";
+    cout << "\nO angulo do vetor e: " << result << " graus. ";
     return 0;
 }
