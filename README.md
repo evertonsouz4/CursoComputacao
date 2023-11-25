@@ -1,7 +1,8 @@
 # Programação de Computadores
-Repositório dedicado a armazenar os exercicios do curso "Programação de Computadores" ministrado pelo professor Judson Santiago
+Repositório dedicado a armazenar os exercícios do curso "Programação de Computadores" ministrado pelo professor Judson Santiago
 da Universidade Federal Rural do Semi-Árido (UFERSA), o mesmo foi desenvolvido utilizando a linguagem de programação C++ e disponibilizado no YouTube
-através do canal: https://www.youtube.com/@JudSan, cada laboratório contém exercícios de revisão, fixação e aprendizagem.
+através do canal: https://www.youtube.com/@JudSan, cada laboratório tem um .pdf contendo os enunciados dos exercícios de revisão, fixação e aprendizagem, 
+totalizando mais de 300 exercicios, e no mesmo contém os arquivos .cpp com as respostas dos exercícios.
 
 Numeração dos laboratórios:
 
