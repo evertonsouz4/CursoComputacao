@@ -5,7 +5,7 @@ double cubo(double num);
 
 int main(){
     double num1;
-    cout << "Digite um valor: ";
+    cout << "Digite um valor:";
     cin >> num1;
     cout << "\nQuadrado = " << quadrado(num1);
     cout << "\nCubo = " << cubo(num1);
