@@ -2,11 +2,17 @@
 using namespace std;
 
 int main(){
-    double km, litro;
-    cout << "Distancia percorrida (km): ";
-    cin >> km;
-    cout << "Litros de combustivel: ";
-    cin >> litro;
-    cout << "O consumo do seu carro foi de: " << km/litro << " km/litro.";
+    short a = 2;
+    int b = 4;
+    long c = 4;
+    long long d = 8;
+    int t = a + b + c + d;
+
+    cout << "short:        " << a << " bytes\n";
+    cout << "int:          " << b << " bytes\n";
+    cout << "long:         " << c << " bytes\n";
+    cout << "long long:    " << d << " bytes\n";
+    cout << "Total:        " << t << " bytes\n";
+
     return 0;
 }
