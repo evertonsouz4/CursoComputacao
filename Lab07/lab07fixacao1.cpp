@@ -15,6 +15,5 @@ int main(){
 	 cout << convert_ascii(109);
 	 cout << convert_ascii(112) << "\n";
 
-
 	return 0;
 }
