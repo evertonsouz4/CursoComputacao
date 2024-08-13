@@ -2,11 +2,14 @@
 using namespace std;
 
 int main(){
-	unsigned char estado = 170;
-	cout << (int) estado << "\n";
+	int bit;
+	cout << "Qual bit deseja ligar?: ";
+	cin >> bit;
 
-	estado = estado ^ 15;
-	cout << (int) estado << "\n";
+	unsigned char mascara = 1 << bit;
+	unsigned char estado = 167;
+	estado = estado | mascara;
+	cout << int(estado);	
 
 	return 0;
 }
